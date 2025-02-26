@@ -33,3 +33,14 @@ function levelUp(){
 
 
 }
+
+function buttonPress(){
+let btn=this;
+btnFlash(btn);
+
+}
+let btnAll=document.querySelectorAll(".btn");
+for(btn of btnAll){
+btn.addEventListener("click",buttonPress);
+}
+
