@@ -1,7 +1,7 @@
 # Simon-Game
 
 Simon Game 🎵🕹️
-A classic Simon Game built using HTML, CSS, and JavaScript. Test your memory by repeating the sequence of colors and sounds as they get progressively harder!
+A classic Simon Game built using HTML, CSS, and JavaScript. Test your memory by repeating the sequence of colors  as they get progressively harder!
 
 🎮 How to Play
 Press the Start button to begin.
